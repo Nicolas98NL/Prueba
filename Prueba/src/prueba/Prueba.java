@@ -2,9 +2,12 @@
 package prueba;
 
 public class Prueba {
+    
 
     public static void main(String[] args) {
-    System.out.println("Hola mundo");
+    for (int i=0; i<100; i++)
+        System.out.println("Hola mundo");
+    
     }
     
 }
